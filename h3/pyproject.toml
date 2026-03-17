@@ -14,4 +14,5 @@ license = {text = "Apache-2.0"}
 test = ["pytest"]
 
 [project.urls]
-Homepage = "https://github.com/daft-engine/daft-extensions"
+Repository = "https://github.com/daft-engine/daft-extensions/tree/main/h3"
+Issues = "https://github.com/daft-engine/daft-extensions/issues"

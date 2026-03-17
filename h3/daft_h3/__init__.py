@@ -1,6 +1,6 @@
 """H3 Geospatial Indexing Functions for Daft.
 
-Functions for the `H3 <https://h3geo.org/>`_ hierarchical hexagonal
+Functions for [H3](https://h3geo.org/), Uber's hierarchical hexagonal
 geospatial indexing system.
 """
 
